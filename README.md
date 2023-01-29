@@ -727,6 +727,10 @@ style.css
         
 ## OUTPUT:
 ![out1](https://user-images.githubusercontent.com/119559812/215310566-dacc4522-a8a1-490f-b343-edaf2400f2a2.png)
+![out2](https://user-images.githubusercontent.com/119559812/215310699-053686f6-2ba5-4914-ac67-4d0b17895e25.png)
+![out3](https://user-images.githubusercontent.com/119559812/215310701-47a3c6f5-e57c-4281-9cfb-4562446922ce.png)
+![out4](https://user-images.githubusercontent.com/119559812/215310702-efef95f3-d24f-49f6-8e71-f5f20abe3b9c.png)
+![out5](https://user-images.githubusercontent.com/119559812/215310704-aefc6fee-85f2-4157-9c7c-1b3bd3cf1108.png)
 
 
 
