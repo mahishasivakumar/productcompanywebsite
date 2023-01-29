@@ -726,11 +726,12 @@ style.css
 ```        
         
 ## OUTPUT:
-![Screenshot (39)](https://user-images.githubusercontent.com/119559812/215310278-60a3857c-253e-4131-8271-bf148fc24110.png)
-![Screenshot (40)](https://user-images.githubusercontent.com/119559812/215310283-d62457af-6754-44eb-bc2b-5c5e3d00870e.png)
-![Screenshot (41)](https://user-images.githubusercontent.com/119559812/215310284-6def5ad5-0fd7-4ee1-b340-bcc42562c47e.png)
-![Screenshot (42)](https://user-images.githubusercontent.com/119559812/215310288-1b2386ce-0347-4a52-9bfc-e61b72ee4572.png)
-![Screenshot (43)](https://user-images.githubusercontent.com/119559812/215310293-e26565b3-dfc4-4332-8faa-403f9d2afba0.png)
+![out1](https://user-images.githubusercontent.com/119559812/215310475-8ed52fd5-2ad0-48e9-b133-a6633bd6c5f9.png)
+![out2](https://user-images.githubusercontent.com/119559812/215310479-4e170f9b-62df-49c7-86e4-fa0f6cdf63ac.png)
+![out3](https://user-images.githubusercontent.com/119559812/215310484-81089d33-f43c-4c84-a1fc-35aecbff0162.png)
+![out4](https://user-images.githubusercontent.com/119559812/215310488-a0e1cac2-24ac-4d9c-bd52-989eb80a2e8a.png)
+![out5](https://user-images.githubusercontent.com/119559812/215310493-690ad494-d099-4bd3-b4c0-0f36c9c75174.png)
+
 
 
 ## Result:
