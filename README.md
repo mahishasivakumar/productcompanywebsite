@@ -726,11 +726,8 @@ style.css
 ```        
         
 ## OUTPUT:
-![out1](https://user-images.githubusercontent.com/119559812/215310475-8ed52fd5-2ad0-48e9-b133-a6633bd6c5f9.png)
-![out2](https://user-images.githubusercontent.com/119559812/215310479-4e170f9b-62df-49c7-86e4-fa0f6cdf63ac.png)
-![out3](https://user-images.githubusercontent.com/119559812/215310484-81089d33-f43c-4c84-a1fc-35aecbff0162.png)
-![out4](https://user-images.githubusercontent.com/119559812/215310488-a0e1cac2-24ac-4d9c-bd52-989eb80a2e8a.png)
-![out5](https://user-images.githubusercontent.com/119559812/215310493-690ad494-d099-4bd3-b4c0-0f36c9c75174.png)
+![out1](https://user-images.githubusercontent.com/119559812/215310566-dacc4522-a8a1-490f-b343-edaf2400f2a2.png)
+
 
 
 
